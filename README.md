@@ -31,4 +31,4 @@ För att få mergea in ändringar från denna branch in till main, så öppnar v
 
 ## Merging
 
-Detta ska skapa en konflikt!!
+Detta ska skapa en konflikt!! 
